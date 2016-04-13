@@ -1,0 +1,1 @@
+<?php header('location:media.php?page=welcome'); ?>

@@ -1,0 +1,57 @@
+body {
+background-color: #fff;
+}
+.CetakTombol {
+	background-color:#f6b33d;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:1px solid #eda933;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:21px;
+	font-weight:normal;
+	padding:0px 25px;
+	text-decoration:none;
+}.CetakTombol:hover {
+	background-color:#d29105;
+}.CetakTombol:active {
+	position:relative;
+	top:1px;
+}
+.wrap {
+	width: 960px;
+	margin: 50px auto;
+	}
+.clearfloat {
+	clear: both; 
+	}
+.header {
+	height: 100px;
+	font-family: Arial;
+	font-size: 24px;
+	}
+.menu {
+	float: left;
+	width:300px;
+	margin-top: 10px;
+	font-size: 18px;
+	}
+.menu a, .MenuKanan a{
+	text-decoration: none;
+	color: #645757;
+	}
+.MenuKanan {
+	font-size: 18px;
+	float: right;
+	}
+.footer {
+	margin: 0 auto;
+	}
+.aksi {
+	text-decoration: none;
+	color: black;
+	}
+
+	
